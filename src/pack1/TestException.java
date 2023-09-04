@@ -2,6 +2,7 @@ package pack1;
 
 public class TestException {
 
+	@SuppressWarnings("unused")
 	public static void main(String[]args) {
 		int a=10 , b=0; //MyException e= new MyException("Invalid Message");
 		
